@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/xiao98/llm-recall/releases/download/v0.2.0/llm-recall_0.2.0_windows_amd64.zip",
+            "bin": [
+                "llm-recall.exe"
+            ],
+            "hash": "86972768ae2f19eb3a9c9d1acda2ead191c607fb5eec89911e76f00bd7ebfa3d"
+        }
+    },
+    "homepage": "https://recall.youchun.tech",
+    "license": "MIT",
+    "description": "Cross-vendor LLM CLI session search \u0026 resume TUI"
+}
