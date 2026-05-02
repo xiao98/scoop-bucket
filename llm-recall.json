@@ -1,12 +1,12 @@
 {
-    "version": "0.3.0",
+    "version": "0.3.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/xiao98/llm-recall/releases/download/v0.3.0/llm-recall_0.3.0_windows_amd64.zip",
+            "url": "https://github.com/xiao98/llm-recall/releases/download/v0.3.1/llm-recall_0.3.1_windows_amd64.zip",
             "bin": [
                 "llm-recall.exe"
             ],
-            "hash": "6ce2963cec9326600a043484d92453c7402929fb94bb14ea34dba4b366f8650a"
+            "hash": "71c30f6ce2df9dad0007043058ddf7a14ecba6f9321f58a0d39b4ea3fbed7beb"
         }
     },
     "homepage": "https://recall.youchun.tech",
